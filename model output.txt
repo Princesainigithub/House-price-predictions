@@ -1,0 +1,17 @@
+model outputs
+
+LinearRegrssion:
+Mean:  6.141542988504211
+Standard deviation 2.5611595844887414
+
+
+DecisionTreeRegressor:
+Mean:  5.669690994305489
+Standard deviation 2.114724309960994
+
+RandomForestRegressor:
+Mean:  4.38477166463381
+Standard deviation 1.468097728832281
+
+
+according to above values,randomForestRegression gives us least error so we can consisder this is better model
